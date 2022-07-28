@@ -1,5 +1,8 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
 .slider-center{
-    margin-bottom: 115px;
+    margin-bottom: 90px;
 }
 .slider-center h1{
     font-size: 70px;
