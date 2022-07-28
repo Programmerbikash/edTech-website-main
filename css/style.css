@@ -4,3 +4,6 @@ body{
 .overlay{
     filter: brightness(50%);
 }
+.model-bg-primary{
+    background-color: #289BDE;
+}
